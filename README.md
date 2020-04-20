@@ -1,0 +1,2 @@
+# Mithra
+A Personal AI
